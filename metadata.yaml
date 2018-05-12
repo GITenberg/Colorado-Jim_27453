@@ -1,0 +1,27 @@
+_repo: Colorado-Jim_27453
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodchild, George
+    birthdate: 1888
+    gutenberg_agent_id: '32699'
+    url: http://www.gutenberg.org/2009/agents/32699
+description: ''
+gutenberg_issued: '2008-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries -- Fiction'
+title: Colorado Jim
+url: http://www.gutenberg.org/ebooks/27453
